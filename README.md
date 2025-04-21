@@ -24,10 +24,10 @@ PlagiScan was created to help ensure that academic content is original and prope
 
 ## 📦 Tech Stack
 
-- **Frontend**: React.js *(or your framework)*
-- **Backend**: Node.js / Flask / Django *(choose your stack)*
-- **Database**: MongoDB / PostgreSQL / Firebase *(specify yours)*
-- **Plagiarism Engine**: NLP techniques / API-based comparison / Custom algorithm
+- **Frontend**: React.js 
+- **Backend**: Node.js
+- **Database**: MongoDB
+- **Plagiarism Engine**: NLP techniques and API-based comparison //currently working on it.
 
 ---
 
