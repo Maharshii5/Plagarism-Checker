@@ -1,61 +1,47 @@
-🎯 Our Mission
-Promoting Academic Integrity
+# 📄 PlagiScan
+
+**PlagiScan** is an advanced plagiarism detection tool designed to assist researchers, students, and academics in verifying the originality of their research papers and academic work. Our mission is to promote academic integrity by providing a seamless, effective, and accessible plagiarism checking experience.
+
+---
+
+## 🚀 Features
+
+- 🔍 Advanced plagiarism detection for research and academic content  
+- 📚 Designed for researchers, students, and educators  
+- 📖 Promotes proper citation and attribution  
+- 🧠 Simple, clean dashboard and user interface  
+- 🛠️ Backend integration ready for powerful analysis engines
+
+---
+
+## 🎯 Our Mission
+
+### Promoting Academic Integrity
+
 PlagiScan was created to help ensure that academic content is original and properly cited. We believe in the importance of integrity and proper attribution in scholarly work.
 
-📦 Tech Stack
-Frontend: React.js (or specify the library/framework you used)
+---
 
-Backend: Node.js / Python / Flask / Django (specify)
+## 📦 Tech Stack
 
-Database: MongoDB / PostgreSQL / Firebase (specify)
+- **Frontend**: React.js *(or your framework)*
+- **Backend**: Node.js / Flask / Django *(choose your stack)*
+- **Database**: MongoDB / PostgreSQL / Firebase *(specify yours)*
+- **Plagiarism Engine**: NLP techniques / API-based comparison / Custom algorithm
 
-Plagiarism Detection Engine: (e.g., NLP algorithms, external APIs, etc.)
+---
 
-🛠️ Installation & Setup
-Clone the repository
+## 🛠️ Installation & Setup
 
-bash
-Copy
-Edit
+```bash
+# Clone the repository
 git clone https://github.com/your-username/plagiscan.git
 cd plagiscan
-Install dependencies
 
-bash
-Copy
-Edit
-npm install  # or pip install -r requirements.txt (if Python)
-Run the app
+# Install dependencies
+npm install         # For Node projects
+# or
+pip install -r requirements.txt  # For Python projects
 
-bash
-Copy
-Edit
-npm start  # or python app.py / flask run
-Visit http://localhost:3000 to access PlagiScan.
-
-📷 Preview
-
-🧪 Testing
-Describe how to run tests for your project, if any:
-
-bash
-Copy
-Edit
-npm test  # or pytest
-📘 Documentation
-About Page
-
-
-
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-Feel free to check the issues page.
-
-📬 Contact
-
-LinkedIn • Email
-
+# Start the server
+npm start           # or python app.py / flask run
