@@ -21,6 +21,20 @@
 PlagiScan was created to help ensure that academic content is original and properly cited. We believe in the importance of integrity and proper attribution in scholarly work.
 
 ---
+## 📸 Project Screenshots
+
+Here are some visuals showcasing the progress and features of the project:
+
+### 🖼️ Screenshot 1: Homepage
+![Homepage](./images/dashboard.jpeg)
+
+### 🧩 Screenshot 2: Feature View
+![Upload files](./images/ui.jpeg)
+
+### 📊 Screenshot 3: Dashboard
+![UI](./images/ui2.jpeg)
+
+---
 
 ## 📦 Tech Stack
 
