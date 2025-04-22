@@ -25,13 +25,13 @@ PlagiScan was created to help ensure that academic content is original and prope
 
 Here are some visuals showcasing the progress and features of the project:
 
-### 🖼️ Screenshot 1: Homepage
+### 🖼️ Homepage
 ![Homepage](./images/dashboard.jpeg)
 
-### 🧩 Screenshot 2: Feature View
+### 🧩 Feature View
 ![Upload files](./images/ui.jpeg)
 
-### 📊 Screenshot 3: UI
+### 📊 UI
 ![UI](./images/ui2.jpeg)
 
 ---
