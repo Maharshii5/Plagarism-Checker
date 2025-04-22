@@ -59,3 +59,7 @@ pip install -r requirements.txt  # For Python projects
 
 # Start the server
 npm start           # or python app.py / flask run
+```
+
+
+## ~ MAHARSHI
