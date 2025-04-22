@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 Our Mission
+## 🎯 My Mission
 
 ### Promoting Academic Integrity
 
