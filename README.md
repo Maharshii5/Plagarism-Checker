@@ -31,7 +31,7 @@ Here are some visuals showcasing the progress and features of the project:
 ### 🧩 Screenshot 2: Feature View
 ![Upload files](./images/ui.jpeg)
 
-### 📊 Screenshot 3: Dashboard
+### 📊 Screenshot 3: UI
 ![UI](./images/ui2.jpeg)
 
 ---
