@@ -13,7 +13,7 @@ function App() {
     <PlagiarismProvider>
       <div className="flex flex-col min-h-screen bg-gray-50">
         <Navbar />
-        <main className="flex-grow">
+        <main className="flex-grow"></main>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/dashboard" element={<Dashboard />} />
